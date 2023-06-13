@@ -1,3 +1,3 @@
 # Honours project
 
-This repository will contain supplementary materials for my 2023 honours project.
+This repository contains supplementary materials for my 2023 honours project.
